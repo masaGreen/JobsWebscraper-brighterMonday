@@ -21,7 +21,7 @@
          
 
 
-- Open three terminal windows and run the following on each.           
+- Open terminal window            
 
             cd JobsWebscraper-brighterMonday
             npm install
